@@ -1,0 +1,15 @@
+Day 2
+Data Types, Numbers, Operation, Types Conversion, f-strings
+
+-> Data Types
+    -> strings
+    -> int
+    -> float
+    -> boolean
+
+-> Type Error, Type Checking an Type Conversion
+
+-> Mathematical Operation
+
+
+-> Number manipulation and F String in Python

@@ -1,0 +1,18 @@
+Control Flow and Logical Operators
+
+-> Control Flow with if/else and Conditional Operator
+
+if condition:
+    do_this()
+else:
+    do_this
+
+comparsion Operator
+Operator    Meaning
+>           Greater then
+<           Less then
+>=          Greater then or equals
+<=          Less then or equals
+==          equals
+
+-> Nested if adn elif statement
