@@ -15,4 +15,14 @@ Operator    Meaning
 <=          Less then or equals
 ==          equals
 
--> Nested if adn elif statement
+-> Nested if and elif statement
+
+-> Logical Operators
+or
+and
+not
+
+built-in function
+method in string
+lower()
+count()
