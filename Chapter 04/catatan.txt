@@ -1,0 +1,14 @@
+Chapter 4 Randomisation and Python List
+
+-> Randomisation
+    di pyton ada library khusus untuk mendapatkan nilai acak, yaitu random
+
+    apa itu module pada Python ?
+
+-> List
+    list digunakan untuk menyimpan banyak data, seperti array
+    https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+
+apa itu itterable
+
+-> Nested List
