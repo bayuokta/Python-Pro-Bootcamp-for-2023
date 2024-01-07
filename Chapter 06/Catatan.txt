@@ -1,0 +1,6 @@
+Python Function & Karel
+
+-> membuat function dengan menggunakan kata kunci def
+def blabla():
+
+https://peps.python.org/pep-0008/
