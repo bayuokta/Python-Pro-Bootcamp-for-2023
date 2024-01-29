@@ -1,0 +1,10 @@
+Function pada pyhton
+
+def my_function():
+    pass
+
+Docstring
+
+print vs return
+
+recursion

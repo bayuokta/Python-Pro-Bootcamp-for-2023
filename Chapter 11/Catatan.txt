@@ -1,0 +1,5 @@
+Aturan dalam bermain blackjack
+
+Jika nilai kartu yang didapat lebih dari 21 di sebut dengan BUST yang berarti kalah
+kartu jack, queen dan king bernilai 10
+kartu AS dapat bernilai 1 dan 11

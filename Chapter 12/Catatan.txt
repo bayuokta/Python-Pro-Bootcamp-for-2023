@@ -1,0 +1,3 @@
+Local vs Global Scope
+
+Python Constants and Global Scope
